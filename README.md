@@ -28,7 +28,7 @@ VectorDriveAI is an advanced document querying and indexing system that integrat
    cd VectorDriveAI
    ```
 
-2. ## Requirements
+2. **Requirements
 
    ## Python Packages
    - `torch` (PyTorch)
@@ -73,5 +73,5 @@ VectorDriveAI is an advanced document querying and indexing system that integrat
 - **Querying**: Interactively query the documents using natural language, and receive contextually accurate responses.
 
 ## Acknowledgment 
-- **This project was completed under the guidance of Professor Chris Kanich.
+- This project was completed under the guidance of Professor Chris Kanich.
 
