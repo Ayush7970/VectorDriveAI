@@ -30,7 +30,7 @@ VectorDriveAI is an advanced document querying and indexing system that integrat
 
 2. ## Requirements
 
-   ### Python Packages
+   ## Python Packages
    - `torch` (PyTorch)
    - `psycopg2`
    - `SQLAlchemy`
@@ -41,19 +41,18 @@ VectorDriveAI is an advanced document querying and indexing system that integrat
    - `google-api-python-client`
    - `Flask` (optional)
    
-   ### PostgreSQL Requirements
+   ## PostgreSQL Requirements
    - PostgreSQL
    - pgvector extension
    
-   ### Additional Setup
+   ## Additional Setup
    - Google Cloud Project (for enabling Google Drive API)
    - Google OAuth Credentials (`client_secret.json`)
    
-   ### System Requirements
+   ## System Requirements
    - Python 3.x
    - A working PostgreSQL server with `pgvector` extension installed
    - Access to Google Cloud Console for API key and OAuth setup
-      ```
 
 3. **Set Up PostgreSQL**:
    - Ensure PostgreSQL is installed and running.
