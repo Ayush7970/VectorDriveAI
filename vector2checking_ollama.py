@@ -26,7 +26,7 @@ documents = GoogleDriveReader(
 # Set up Ollama
 ollama_embedding = OllamaEmbedding(
     model_name="llama3",
-    base_url="http://localhost:11434",
+    base_url=" enter your base url",
     ollama_additional_kwargs={
         "mirostat": 0,
         "num_ctx": 4096,
